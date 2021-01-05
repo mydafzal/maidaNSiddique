@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Maida and I'm a full stack developer! 
+### Hi there 👋  My name is Maida and I'm a front-end developer! 
 
 - 🔭 I’m currently working on ... ReactJS
 - 🌱 I’m currently learning ... NodeJS
