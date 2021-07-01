@@ -1,7 +1,6 @@
-### Hi there 👋  My name is Maida and I'm a front-end developer! 
+### Hi there 👋  My name is Maida 
 
-- 🔭 I’m currently working on ... ReactJS
-- 🌱 I’m currently learning ... NodeJS
+- 🌱 I’m currently learning ... ReactJS
 - 🤔 I’ve already worked as ... UI/UX Designer
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... myyddaa@gmail.com
